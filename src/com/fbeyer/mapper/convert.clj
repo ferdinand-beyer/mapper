@@ -1,7 +1,6 @@
 (ns com.fbeyer.mapper.convert
-  (:import [java.util Date UUID]
-           [java.time Instant]
-           [java.text DateFormat]))
+  (:import [java.time Instant]
+           [java.util Date UUID]))
 
 (set! *warn-on-reflection* true)
 
