@@ -1,0 +1,13 @@
+.build/
+.calva/
+.clj-kondo/.cache/
+.cpcache/
+.lsp/
+
+.settings/
+.vscode/
+.classpath
+.project
+
+.nrepl-port
+.rebel_readline_history
